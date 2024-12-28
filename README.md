@@ -1,7 +1,7 @@
 ### NAME:  RISHIVARMAN<br>
 ### REG NO:  24900419
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
-# Uploading soil moisture sensor data in Thing Speak cloud
+# EXPERIMENT 5: Monitoring-soil-moisture-value-in-Thing-speak-cloud
+
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
@@ -138,10 +138,13 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![398321304-60c8ae21-507d-4fce-826f-b50196e2e15a](https://github.com/user-attachments/assets/8733310d-5671-426c-b499-648113aa3722)
-
+<img src="https://github.com/user-attachments/assets/8733310d-5671-426c-b499-648113aa3722"
+ width="700"
+     height="500"/>
 # OUTPUT:
-![398321632-5c62cf57-aae2-4ada-9565-fa4cc030ce4c](https://github.com/user-attachments/assets/8aecd14a-35e9-40f7-8365-d6d4bcfada55)
+<img src="https://github.com/user-attachments/assets/8aecd14a-35e9-40f7-8365-d6d4bcfada55"
+ width="700"
+     height="500"/>
 
 ![398321829-3d9b6d2f-6d2f-468f-85cf-bf8d4bde221d](https://github.com/user-attachments/assets/9c682c69-34ac-45f9-b6b1-bfa99695065d)
 
